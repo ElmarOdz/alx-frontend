@@ -6,16 +6,24 @@ Front-end
 Responsive design 
 
  By: David Dias, Senior Software Engineer at HomeX
+ 
  Weight: 1
+ 
  Project will start Jul 19, 2023 6:00 AM, must end by Jul 21, 2023 6:00 AM
+ 
  Manual QA review must be done (request it when you are done with the project)
-Concepts
+ 
+## Concepts
+
 For this project, we expect you to look at this concept:
 
-Responsive web design
+- Responsive web design
+
+![4fe027a0c298339cb4cb](https://github.com/ElmarOdz/alx-frontend/assets/110916781/94566c87-837e-4aa9-9989-ca4e27432856)
 
 
-Resources
+## Resources
+
 Read or watch:
 
 The building blocks of responsive design - Progressive web apps | MDN
